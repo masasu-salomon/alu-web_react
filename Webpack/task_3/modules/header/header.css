@@ -1,0 +1,13 @@
+#logo {
+  width: 200px;
+  height: 200px;
+  background: url('../../assets/holberton-logo.jpg');
+  background-size: 200px 200px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+h1 {
+  color: #e1003c;
+  font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,8 @@
+footer, p:last-child {
+  clear: both;
+}
+
+body > p:last-child {
+  font-style: italic;
+  color: #777;
+}
